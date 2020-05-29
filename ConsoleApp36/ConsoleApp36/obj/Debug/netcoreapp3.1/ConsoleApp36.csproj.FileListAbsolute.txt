@@ -1,0 +1,15 @@
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.exe
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.csprojAssemblyReference.cache
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.AssemblyInfoInputs.cache
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.AssemblyInfo.cs
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.deps.json
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.runtimeconfig.json
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.runtimeconfig.dev.json
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.dll
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\ConsoleApp36.pdb
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.csproj.CopyComplete
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.dll
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.pdb
+C:\Users\ricca\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\netcoreapp3.1\ConsoleApp36.genruntimeconfig.cache

@@ -1,0 +1,80 @@
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.dll
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.dll
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.pdb
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\MasterPage.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\Provincepagina.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\Regionipagina.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\Resoconti.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.dll
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\MasterPage.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Provincepagina.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Regionipagina.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Resoconti.xaml.g.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.dll
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+D:\miah-\Documents\Greppi\repos\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.pdb
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.dll
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\MasterPage.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Provincepagina.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Regionipagina.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Resoconti.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.dll
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.pdb
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\NazioneResoconto.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\ProvinciaResonto.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\RegioneResoconto.xaml.g.cs
+C:\Users\ricca\Desktop\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+Z:\scuola\info\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+Z:\scuola\info\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.dll
+Z:\scuola\info\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+Z:\scuola\info\App5 - Copy\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Mappe\Provincepagina.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Mappe\Regionipagina.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Resoconti\NazioneResoconto.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Resoconti\ProvinciaResonto.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Resoconti\RegioneResoconto.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Resoconti\Resoconti.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Struttra\App.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Struttra\MainPage.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Struttra\MasterPage.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\Pagine Xamal\Struttra\Page1.xaml.g.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.dll
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+Z:\scuola\info\App5 - Copy\App5\App5\obj\Debug\netstandard2.0\App5.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="App5.NazioneResoconto">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="3*" />
+                </Grid.ColumnDefinitions>
+                <StackLayout Grid.Column="0">
+                    <Label Text="Nazione:"/>
+                    <Label Text="Ricoverati con Sintomi:"/>
+                    <Label Text="Terapia intensiva:"/>
+                    <Label Text="Totale ospedalizati:"/>
+                    <Label Text="Isolamento domiciliare:"/>
+                    <Label Text="Totale positivi:"/>
+                    <Label Text="Variazione totale positivi:"/>
+                    <Label Text="Nuovi positivo:"/>
+                    <Label Text="Dimessi guariti:"/>
+                    <Label Text="Deceduti:"/>
+                    <Label Text="Totale caso:"/>
+                    <Label Text="Tamponi:"/>
+                    <Label Text="Casi testati:"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1">
+                    <Label Text="Italia" FontAttributes="Bold"/>
+                    <Label x:Name="Ricoverati_con_sintomi" FontAttributes="Bold"/>
+                    <Label x:Name="Terapia_intensiva" FontAttributes="Bold"/>
+                    <Label x:Name="Totale_ospedalizati" FontAttributes="Bold"/>
+                    <Label x:Name="Isolamento_domiciliare" FontAttributes="Bold"/>
+                    <Label x:Name="Totale_positivi" FontAttributes="Bold"/>
+                    <Label x:Name="Variazione_totale_positivi" FontAttributes="Bold"/>
+                    <Label x:Name="Nuovi_positivi" FontAttributes="Bold"/>
+                    <Label x:Name="Dimessi_guariti" FontAttributes="Bold"/>
+                    <Label x:Name="Deceduti" FontAttributes="Bold"/>
+                    <Label x:Name="Totale_casi" FontAttributes="Bold"/>
+                    <Label x:Name="Tamponi" FontAttributes="Bold"/>
+                    <Label x:Name="Casi_testati" FontAttributes="Bold"/>
+                </StackLayout>
+
+            </Grid>
+            <microcharts:ChartView x:Name="chartView"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

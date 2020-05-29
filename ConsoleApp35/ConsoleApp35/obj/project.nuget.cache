@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TMXfKVDoZcsyLTzWn90EpcPi1QMkm0WRytKsp/VbkneUqRRJRG1M9h/ABdEFXTygtbr5hz2lnGq1+MTKe64wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricca\\source\\repos\\ConsoleApp35\\ConsoleApp35\\ConsoleApp35.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ricca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

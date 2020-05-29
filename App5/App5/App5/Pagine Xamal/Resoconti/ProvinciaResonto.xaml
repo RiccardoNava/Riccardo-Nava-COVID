@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="App5.ProvinciaResonto">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="3*" />
+                </Grid.ColumnDefinitions>
+                <StackLayout Grid.Column="0">
+                    <Label Text="Provincia:"/>
+                    <Label Text="Regione:"/>
+                    <Label Text="Sigla provincia:"/>
+                    <Label Text="Totale casi:"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1">
+                    <Label x:Name="denominazione_provincia" FontAttributes="Bold"/>
+                    <Label x:Name="Nome_Regione" FontAttributes="Bold"/>
+                    <Label x:Name="Sigla_Provincia" FontAttributes="Bold"/>
+                    <Label x:Name="Totale_casi" FontAttributes="Bold"/>
+                </StackLayout>
+            </Grid>
+            <microcharts:ChartView x:Name="chartView"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

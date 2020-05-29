@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App5.Provincepagina"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+    <ContentPage.Content>
+
+        <AbsoluteLayout>
+            
+            <maps:Map x:Name="Mappa" AbsoluteLayout.LayoutFlags="All" HorizontalOptions="FillAndExpand"
+               VerticalOptions="FillAndExpand" AbsoluteLayout.LayoutBounds="0,0,1,1" />
+            <DatePicker x:Name="datepicker" MinimumDate="2020, 2, 24" FontAttributes="Bold" DateSelected="datepicker_DateSelected" TextColor="White" Format="🗓" FontSize="40"  AbsoluteLayout.LayoutBounds="1, 0, AutoSize, AutoSize"  AbsoluteLayout.LayoutFlags="PositionProportional" />
+        </AbsoluteLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

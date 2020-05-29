@@ -1,0 +1,15 @@
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.exe
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.csprojAssemblyReference.cache
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.AssemblyInfoInputs.cache
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.AssemblyInfo.cs
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.deps.json
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.runtimeconfig.json
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.runtimeconfig.dev.json
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.dll
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\ConsoleApp34.pdb
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.csproj.CopyComplete
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.dll
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.pdb
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.genruntimeconfig.cache
+C:\Users\ricca\source\repos\ConsoleApp34\ConsoleApp34\obj\Debug\netcoreapp3.1\ConsoleApp34.csproj.CoreCompileInputs.cache
